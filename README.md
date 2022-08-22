@@ -20,9 +20,6 @@ Tabela:
  - bonus
 
 O ambiente para este desenvolvimento é opcional.
-Para usuários de Windows, recomendamos a utilização do WSL2 + Docker + Laradock: </br>
-[Instalação do WSL2](https://github.com/codeedu/wsl2-docker-quickstart)</br>
-[GitHub Laradock](https://github.com/laradock/laradock)
 
 
 ## Especificação da Aplicação
@@ -47,3 +44,4 @@ Criar os relacionamentos entre `Models` respeitando a convenção do Cakephp.
 ## Dicas
 
 - Não fique trancado, em caso de dúvidas fale conosco pelo email ti@crmbonus.com para que alguem possa ajudar a encontrar uma solução.
+

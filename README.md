@@ -6,11 +6,9 @@ Uma loja precisa gerar bonus para melhorar o engajemento de vendas, nesse desafi
 
 ## O que iremos utilizar
 
-A implementação deverá ser obrigatoriamente com o Framework Cakephp. A versão que será utilizada no desafio é opcional:
+A implementação deverá ser obrigatoriamente com o Framework Cakephp.
 
 [Baixar versão 2.4.2 (Versão da Simplo7)](https://bakery.cakephp.org/2013/10/23/CakePHP-2-4-2-released.html)
-
-[Última versão](https://book.cakephp.org/4/en/installation.html)
 
 Banco de dados que iremos utilizar será o Mysql ou MariaDB.
 
